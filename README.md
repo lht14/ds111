@@ -1,89 +1,87 @@
-#  HCMC Apartment Rental Price Analysis
 
-##  Giới thiệu
+# DS111 – Phân tích Dữ liệu (Data Analytics)
 
-**Đề tài:** Phân tích các yếu tố ảnh hưởng đến giá cho thuê và xây dựng mô hình dự đoán giá thuê căn hộ chung cư tại TP. Hồ Chí Minh.
+Dự án học tập môn **DS111 – Phân tích Dữ liệu**
 
-**Môn học:** DS111 – Phân tích dữ liệu  
-**Nguồn dữ liệu dự kiến:** [Batdongsan.com.vn](https://batdongsan.com.vn/)  
-**Ngôn ngữ:** Python
+## 1. Giới thiệu dự án
 
-## Mục tiêu
+**Đề tài:** Phân tích và dự đoán biến động giá cà phê tại Việt Nam dựa trên dữ liệu giá nông sản, thời tiết, tỷ giá USD/VND, nhiên liệu và hàng hóa thế giới.
 
-- Thu thập và tiền xử lý dữ liệu căn hộ cho thuê.
-- Phân tích khám phá dữ liệu (EDA).
-- Phân tích tương quan và kiểm định thống kê.
-- Lựa chọn các đặc trưng ảnh hưởng đến giá thuê.
-- Xây dựng và đánh giá mô hình dự đoán giá thuê.
-- Trực quan hóa kết quả bằng Dashboard.
+**Mục tiêu:**
+- Thu thập và lựa chọn nguồn dữ liệu.
+- Làm sạch, chuẩn hóa và tích hợp dữ liệu.
+- Khám phá các mối liên hệ giữa các biến.
+- Trực quan hóa dữ liệu bằng Dashboard.
+- Xây dựng và đánh giá các mô hình dự đoán.
 
-## Dataset
+Quy trình phân tích dựa trên **CRISP-DM** gồm 6 giai đoạn: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation và Deployment.
 
-Bộ dữ liệu dự kiến gồm **15 thuộc tính**:
+## 2. Nội dung chương trình
 
-`listing_id`, `created_date`, `rental_price`, `district`, `ward`, `project_name`, `area_sqm`, `num_bedrooms`, `num_bathrooms`, `floor_level`, `balcony_direction`, `furniture_status`, `legal_status`, `has_air_conditioner`, `price_per_sqm`.
-
-- **Target:** `rental_price` (triệu VNĐ/tháng).
-- **Features:** Các thuộc tính căn hộ được lựa chọn sau tiền xử lý.
-- **Lưu ý:** `price_per_sqm = rental_price / area_sqm` chỉ dùng cho phân tích, không dùng làm đầu vào dự đoán `rental_price` để tránh Data Leakage.
-
-## 📁 Cấu trúc thư mục
-
-```text
-ds111/
-├── dashboard/                 # Dashboard Power BI
-├── data/
-│   ├── raw/                   # Dữ liệu thô
-│   └── processed/             # Dữ liệu đã xử lý
-├── notebook/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_statistical_analysis.ipynb
-│   ├── 05_feature_selection.ipynb
-│   ├── 06_modeling.ipynb
-│   └── 07_model_evaluation.ipynb
-├── reports/                   # Báo cáo và biểu đồ
-├── src/                       # Mã nguồn Python
-└── README.md
-```
-
-## Quy trình thực hiện
-
-1. **Data Collection:** Thu thập dữ liệu từ nguồn được phép.
-2. **Data Cleaning:** Xử lý dữ liệu thiếu, trùng lặp và ngoại lệ.
-3. **EDA:** Phân tích và trực quan hóa dữ liệu.
-4. **Statistical Analysis:** Pearson, Spearman, ANOVA.
-5. **Feature Selection:** Mutual Information, Random Forest Importance.
-6. **Modeling:** Linear Regression, Random Forest, XGBoost.
-7. **Model Evaluation:** Đánh giá bằng MAE, RMSE, R².
-
-## 🛠️ Công nghệ
-
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy.
-- **Machine Learning:** Scikit-learn, XGBoost.
-- **Data Collection:** Requests, BeautifulSoup (khi được phép).
-- **Visualization:** Power BI.
-- **Development:** Jupyter Notebook, Git, GitHub.
-
-## Chuẩn đầu ra DS111
-
-| Chuẩn | Nội dung |
+| Chương | Nội dung |
 |---|---|
-| G1 | Lựa chọn nguồn và quy trình phân tích dữ liệu |
-| G2 | Áp dụng thư viện xây dựng mô hình |
-| G3.1 | Đánh giá mô hình phân tích dữ liệu |
-| G3.2 | Đánh giá và phản biện kết quả |
-| G4 | Thiết kế quy trình phân tích dữ liệu |
+| 1 | Giới thiệu và thu thập dữ liệu |
+| 2 | Xử lý dữ liệu (Data Preprocessing) |
+| 3 | Phân tích và xây dựng Dashboard |
+| 4 | Phân tích thăm dò dữ liệu (EDA) |
+| 5 | Phân tích dự đoán (Predictive Analytics) |
+| 6 | Phân tích chẩn đoán |
+| 7 | Xây dựng quy trình phân tích dữ liệu |
 
-##  Kết quả dự kiến
+## 3. Công nghệ sử dụng
 
-- Dataset đã làm sạch.
-- Báo cáo EDA và phân tích thống kê.
-- Các mô hình dự đoán giá thuê.
-- Bảng so sánh hiệu suất mô hình.
-- Dashboard trực quan hóa kết quả.
+- **Ngôn ngữ:** Python 3.x
+- **Xử lý dữ liệu:** Pandas, NumPy
+- **Thống kê:** SciPy, Statsmodels
+- **Học máy:** Scikit-learn
+- **Trực quan hóa:** Matplotlib, Seaborn
+- **Dashboard:** Power BI
+- **Môi trường:** Jupyter Notebook, VS Code
+
+## 4. Bộ dữ liệu
+
+Dự án sử dụng 6 file CSV thuộc các nhóm:
+
+| Nhóm dữ liệu | Mục đích |
+|---|---|
+| Nông sản | Phân tích giá cà phê nội địa |
+| Thời tiết | Nhiệt độ, độ ẩm và điều kiện thời tiết |
+| Tỷ giá | Tỷ giá USD/VND |
+| Nhiên liệu | Giá dầu diesel |
+| Hàng hóa thế giới | Giá cà phê Robusta và dầu Brent |
+
+### Dataset sau tiền xử lý
+
+**File:** `data/processed/coffee_analytics_clean.csv`
+
+- **Số bản ghi:** 616
+- **Số cột:** 15
+- **Thời gian:** 28/05/2026 – 06/11/2026
+- **Địa phương:** Gia Lai, Lâm Đồng, Đắk Lắk, Đắk Nông
+- **Biến mục tiêu:** `coffee_price_vnd_kg`
+- **Giá trị khuyết sau xử lý:** 0
+
+### Danh sách 15 cột
+
+| Cột | Ý nghĩa |
+|---|---|
+| date | Ngày quan sát |
+| region | Địa phương |
+| coffee_price_vnd_kg | Giá cà phê nội địa (VND/kg) |
+| temperature_c | Nhiệt độ |
+| humidity_pct | Độ ẩm |
+| weather_conditions | Điều kiện thời tiết |
+| usd_transfer_vnd | Tỷ giá chuyển khoản USD/VND |
+| usd_spread_vnd | Chênh lệch tỷ giá mua và bán |
+| diesel_price | Giá dầu diesel |
+| robusta_price_usd_tonne | Giá cà phê Robusta thế giới |
+| brent_price_usd_barrel | Giá dầu Brent |
+| month | Tháng |
+| day_of_week | Thứ trong tuần |
+| coffee_price_ma7_prev | Trung bình 7 quan sát giá trước đó |
+| market_missing | Cờ báo thiếu dữ liệu thị trường trước khi điền khuyết |
 
 ---
 
-**DS111 – Data Analysis Project**
+**Môn học:** DS111 – Phân tích Dữ liệu  
+**Mục đích:** Học tập và thực hành phân tích dữ liệu bằng Python.

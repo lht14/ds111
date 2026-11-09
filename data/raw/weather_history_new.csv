@@ -1,0 +1,855 @@
+﻿id,date,fetched_at,city,temperature,humidity,conditions,forecast,source,geo_location_id,latitude,longitude,target_region,requested_city
+269866,2026-06-21,2026-06-20T17:00:28.870Z,Pleiku,22.71,80,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+259875,2026-06-20,2026-06-19T17:00:26.080Z,Pleiku,22.19,91,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+249884,2026-06-19,2026-06-18T17:00:27.348Z,Pleiku,20.92,93,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+239893,2026-06-18,2026-06-17T17:00:25.041Z,Pleiku,21.42,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+229902,2026-06-17,2026-06-16T17:00:27.985Z,Pleiku,22.05,90,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+222898,2026-06-16,2026-06-16T00:00:25.517Z,Pleiku,21.93,91,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+212907,2026-06-15,2026-06-15T00:00:27.603Z,Pleiku,22.87,87,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+203122,2026-06-14,2026-06-14T00:57:38.280Z,Pleiku,24.79,81,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+193205,2026-06-13,2026-06-13T00:00:24.659Z,Pleiku,22.89,93,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+183214,2026-06-12,2026-06-12T00:00:27.469Z,Pleiku,21.99,94,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+173223,2026-06-11,2026-06-11T00:00:24.989Z,Pleiku,22.65,90,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+163232,2026-06-10,2026-06-10T00:00:24.576Z,Pleiku,22.01,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+153241,2026-06-09,2026-06-09T00:00:24.199Z,Pleiku,22.47,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+143250,2026-06-08,2026-06-08T00:00:24.053Z,Pleiku,21.84,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+133259,2026-06-07,2026-06-07T00:00:25.114Z,Pleiku,22.64,88,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+123268,2026-06-06,2026-06-06T00:00:26.108Z,Pleiku,22.55,88,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+113895,2026-06-05,2026-06-05T01:38:14.844Z,Pleiku,23.84,86,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+105140,2026-06-04,2026-06-04T00:00:24.518Z,Pleiku,21.83,95,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+95149,2026-06-03,2026-06-03T00:00:25.477Z,Pleiku,21.21,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+85158,2026-06-02,2026-06-02T00:00:25.314Z,Pleiku,22.57,89,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+75064,2026-06-01,2026-06-01T00:00:23.789Z,Pleiku,21.93,93,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+64970,2026-05-31,2026-05-31T00:00:24.616Z,Pleiku,22.49,88,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+54876,2026-05-30,2026-05-30T00:00:25.072Z,Pleiku,22.65,90,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+44782,2026-05-29,2026-05-29T00:00:24.292Z,Pleiku,23.77,80,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+34688,2026-05-28,2026-05-28T00:00:25.226Z,Pleiku,24.61,78,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+24491,2026-05-27,2026-05-27T00:00:25.444Z,Pleiku,23.68,80,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+14500,2026-05-26,2026-05-26T00:15:24.798Z,Pleiku,24.62,78,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+4303,2026-05-25,2026-05-25T00:00:25.352Z,Pleiku,24.67,78,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+30217,2026-05-24,2026-05-24T13:17:03.405Z,Pleiku,24.74,71,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+24449,2026-05-23,2026-05-24T13:17:03.405Z,Pleiku,23.94,85,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+14458,2026-05-22,2026-05-24T13:17:03.405Z,Pleiku,24.18,80,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+4467,2026-05-21,2026-05-24T13:17:03.404Z,Pleiku,22.85,90,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+863279,2026-08-20,2026-08-19T17:00:29.725Z,Pleiku,20.02,99,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+853288,2026-08-19,2026-08-18T17:00:29.830Z,Pleiku,20.9,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+843297,2026-08-18,2026-08-17T17:00:26.134Z,Pleiku,21.1,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+833306,2026-08-17,2026-08-16T17:00:31.194Z,Pleiku,21.59,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+823389,2026-08-16,2026-08-15T17:00:25.276Z,Pleiku,21.38,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+813192,2026-08-15,2026-08-14T17:00:25.665Z,Pleiku,21.0,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+802995,2026-08-14,2026-08-13T17:00:25.521Z,Pleiku,21.19,98,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+793004,2026-08-13,2026-08-12T17:00:24.914Z,Pleiku,20.94,97,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+783528,2026-08-12,2026-08-11T17:00:25.138Z,Pleiku,21.05,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+773381,2026-08-11,2026-08-10T17:15:26.503Z,Pleiku,20.36,99,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+763390,2026-08-10,2026-08-09T17:00:25.811Z,Pleiku,20.64,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+753399,2026-08-09,2026-08-08T17:00:25.772Z,Pleiku,20.52,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+743408,2026-08-08,2026-08-07T17:00:26.128Z,Pleiku,20.66,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+733417,2026-08-07,2026-08-06T17:00:26.364Z,Pleiku,20.47,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+723735,2026-08-06,2026-08-05T17:00:27.061Z,Pleiku,20.63,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+713744,2026-08-05,2026-08-04T17:00:27.682Z,Pleiku,20.56,99,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+703753,2026-08-04,2026-08-03T17:00:25.619Z,Pleiku,21.33,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+693762,2026-08-03,2026-08-02T17:00:25.504Z,Pleiku,20.94,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+683771,2026-08-02,2026-08-01T17:00:25.545Z,Pleiku,20.76,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+673780,2026-08-01,2026-07-31T17:00:25.898Z,Pleiku,20.59,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+663789,2026-07-31,2026-07-30T17:00:25.941Z,Pleiku,20.82,99,mưa vừa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+653798,2026-07-30,2026-07-29T17:00:26.050Z,Pleiku,20.85,99,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+643807,2026-07-29,2026-07-28T17:00:25.518Z,Pleiku,21.24,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+633816,2026-07-28,2026-07-27T17:00:26.862Z,Pleiku,20.33,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+623825,2026-07-27,2026-07-26T17:00:26.963Z,Pleiku,20.65,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+616277,2026-07-26,2026-07-25T17:00:25.802Z,Pleiku,20.75,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+606286,2026-07-25,2026-07-24T17:00:27.032Z,Pleiku,20.85,95,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+596295,2026-07-24,2026-07-23T17:00:26.899Z,Pleiku,20.39,97,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+586304,2026-07-23,2026-07-22T17:00:26.705Z,Pleiku,20.45,94,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+576313,2026-07-22,2026-07-21T17:00:27.359Z,Pleiku,20.33,83,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+566322,2026-07-21,2026-07-20T17:00:26.983Z,Pleiku,21.06,85,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+556331,2026-07-20,2026-07-19T17:00:27.919Z,Pleiku,20.52,96,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+546340,2026-07-19,2026-07-18T17:00:27.299Z,Pleiku,20.3,98,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+536349,2026-07-18,2026-07-17T17:00:28.721Z,Pleiku,20.16,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+526358,2026-07-17,2026-07-16T17:00:28.145Z,Pleiku,20.89,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+516367,2026-07-16,2026-07-15T17:00:26.339Z,Pleiku,20.64,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+506376,2026-07-15,2026-07-14T17:00:28.447Z,Pleiku,19.93,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+496385,2026-07-14,2026-07-13T17:00:28.054Z,Pleiku,20.26,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+486394,2026-07-13,2026-07-12T17:00:28.063Z,Pleiku,20.51,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+476403,2026-07-12,2026-07-11T17:00:28.879Z,Pleiku,20.04,93,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+466412,2026-07-11,2026-07-10T17:00:27.179Z,Pleiku,22.04,80,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+456421,2026-07-10,2026-07-09T17:00:28.248Z,Pleiku,21.03,89,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+446430,2026-07-09,2026-07-08T17:00:29.953Z,Pleiku,20.94,94,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+439294,2026-07-08,2026-07-07T17:00:31.409Z,Pleiku,19.93,96,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+429509,2026-07-07,2026-07-06T17:00:32.394Z,Pleiku,19.89,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+419518,2026-07-06,2026-07-05T17:00:30.046Z,Pleiku,19.46,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+409630,2026-07-05,2026-07-04T17:00:32.820Z,Pleiku,19.52,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+399639,2026-07-04,2026-07-03T17:00:30.600Z,Pleiku,20.66,99,mưa vừa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+389751,2026-07-03,2026-07-02T17:00:45.258Z,Pleiku,20.64,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+379766,2026-07-02,2026-07-01T17:00:31.182Z,Pleiku,21.2,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+369775,2026-07-01,2026-06-30T17:00:58.973Z,Pleiku,21.75,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+359784,2026-06-30,2026-06-29T17:00:33.390Z,Pleiku,22.07,94,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+349793,2026-06-29,2026-06-28T17:00:25.906Z,Pleiku,22.12,91,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+339802,2026-06-28,2026-06-27T17:00:26.589Z,Pleiku,21.18,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+329811,2026-06-27,2026-06-26T17:00:41.656Z,Pleiku,22.5,87,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+319820,2026-06-26,2026-06-25T17:00:25.158Z,Pleiku,21.29,96,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+309829,2026-06-25,2026-06-24T17:00:26.740Z,Pleiku,22.36,81,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+299838,2026-06-24,2026-06-23T17:00:28.347Z,Pleiku,21.62,88,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+289847,2026-06-23,2026-06-22T17:00:28.016Z,Pleiku,22.64,81,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+279857,2026-06-22,2026-06-21T17:00:26.155Z,Pleiku,21.78,94,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1451918,2026-10-19,2026-10-18T17:00:23.509Z,Pleiku,18.88,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1441515,2026-10-18,2026-10-17T17:00:26.728Z,Pleiku,19.48,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1431112,2026-10-17,2026-10-16T17:00:25.190Z,Pleiku,18.83,95,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1420709,2026-10-16,2026-10-15T17:00:26.464Z,Pleiku,19.21,97,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1410306,2026-10-15,2026-10-14T17:00:26.353Z,Pleiku,18.85,96,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1399903,2026-10-14,2026-10-13T17:00:27.416Z,Pleiku,19.24,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1389500,2026-10-13,2026-10-12T17:00:27.923Z,Pleiku,20.09,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1379097,2026-10-12,2026-10-11T17:00:25.910Z,Pleiku,18.75,95,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1368694,2026-10-11,2026-10-10T17:00:25.373Z,Pleiku,19.69,93,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1358291,2026-10-10,2026-10-09T17:00:27.076Z,Pleiku,19.76,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1347888,2026-10-09,2026-10-08T17:00:27.050Z,Pleiku,18.86,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1337485,2026-10-08,2026-10-07T17:00:25.700Z,Pleiku,19.1,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1327082,2026-10-07,2026-10-06T17:00:25.283Z,Pleiku,19.88,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1316679,2026-10-06,2026-10-05T17:00:24.431Z,Pleiku,19.78,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1306276,2026-10-05,2026-10-04T17:00:24.309Z,Pleiku,20.44,94,mưa vừa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1295873,2026-10-04,2026-10-03T17:00:24.922Z,Pleiku,20.45,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1285470,2026-10-03,2026-10-02T17:00:26.443Z,Pleiku,20.62,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1275067,2026-10-02,2026-10-01T17:00:23.519Z,Pleiku,20.01,96,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1264664,2026-10-01,2026-09-30T17:00:25.087Z,Pleiku,20.53,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1254261,2026-09-30,2026-09-29T17:00:25.072Z,Pleiku,20.83,96,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1244270,2026-09-29,2026-09-28T17:00:27.034Z,Pleiku,20.52,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1233867,2026-09-28,2026-09-27T17:00:25.929Z,Pleiku,19.97,98,mưa vừa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1223464,2026-09-27,2026-09-26T17:00:26.071Z,Pleiku,19.58,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1213061,2026-09-26,2026-09-25T17:00:26.474Z,Pleiku,20.36,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1202658,2026-09-25,2026-09-24T17:00:26.502Z,Pleiku,20.59,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1192255,2026-09-24,2026-09-23T17:00:26.362Z,Pleiku,20.25,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1181852,2026-09-23,2026-09-22T17:00:25.623Z,Pleiku,20.68,93,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1171449,2026-09-22,2026-09-21T17:00:25.221Z,Pleiku,20.04,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1161046,2026-09-21,2026-09-20T17:00:24.426Z,Pleiku,20.3,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1150643,2026-09-20,2026-09-19T17:00:26.061Z,Pleiku,19.95,98,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1140240,2026-09-19,2026-09-18T17:00:25.805Z,Pleiku,20.07,98,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1129940,2026-09-18,2026-09-17T17:00:24.647Z,Pleiku,20.24,97,mưa vừa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1119537,2026-09-17,2026-09-16T17:00:25.095Z,Pleiku,20.48,96,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1109134,2026-09-16,2026-09-15T17:00:26.359Z,Pleiku,20.22,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1098731,2026-09-15,2026-09-14T17:00:25.452Z,Pleiku,20.15,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1088534,2026-09-14,2026-09-13T17:00:25.975Z,Pleiku,20.22,99,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1078337,2026-09-13,2026-09-12T17:00:26.385Z,Pleiku,19.22,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1069067,2026-09-12,2026-09-11T17:00:23.286Z,Pleiku,19.03,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1058870,2026-09-11,2026-09-10T17:00:25.647Z,Pleiku,18.85,98,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1048673,2026-09-10,2026-09-09T17:00:25.858Z,Pleiku,20.72,100,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1038476,2026-09-09,2026-09-08T17:00:24.212Z,Pleiku,20.46,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1028279,2026-09-08,2026-09-07T17:00:26.140Z,Pleiku,20.32,98,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1018082,2026-09-07,2026-09-06T17:00:26.384Z,Pleiku,20.25,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1007891,2026-09-06,2026-09-05T17:00:30.308Z,Pleiku,20.44,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+997694,2026-09-05,2026-09-04T17:00:26.452Z,Pleiku,20.53,100,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+991411,2026-09-04,2026-09-04T02:17:16.200Z,Pleiku,21.35,99,mưa cường độ nặng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+982862,2026-09-01,2026-08-31T17:00:24.939Z,Pleiku,20.16,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+972871,2026-08-31,2026-08-30T17:00:24.731Z,Pleiku,20.77,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+962880,2026-08-30,2026-08-29T17:00:25.996Z,Pleiku,21.12,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+952889,2026-08-29,2026-08-28T17:00:27.050Z,Pleiku,21.22,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+942898,2026-08-28,2026-08-27T17:00:24.740Z,Pleiku,21.46,97,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+932907,2026-08-27,2026-08-26T17:00:25.977Z,Pleiku,21.55,95,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+922916,2026-08-26,2026-08-25T17:00:25.322Z,Pleiku,21.36,92,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+912925,2026-08-25,2026-08-24T17:00:24.631Z,Pleiku,21.04,92,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+903140,2026-08-24,2026-08-23T17:00:24.262Z,Pleiku,21.44,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+893149,2026-08-23,2026-08-22T17:00:30.474Z,Pleiku,21.36,94,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+883158,2026-08-22,2026-08-21T17:00:24.144Z,Pleiku,20.87,95,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+873270,2026-08-21,2026-08-20T17:00:40.872Z,Pleiku,20.19,98,mưa nhẹ,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1636880,2026-11-06,2026-11-05T17:00:29.429Z,Pleiku,19.31,97,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1626477,2026-11-05,2026-11-04T17:00:32.087Z,Pleiku,19.65,96,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1616074,2026-11-04,2026-11-03T17:00:34.037Z,Pleiku,19.44,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1605671,2026-11-03,2026-11-02T17:00:29.340Z,Pleiku,19.45,95,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1595268,2026-11-02,2026-11-01T17:00:25.161Z,Pleiku,19.47,98,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1584865,2026-11-01,2026-10-31T17:00:28.484Z,Pleiku,18.84,97,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1574462,2026-10-31,2026-10-30T17:00:25.405Z,Pleiku,19.13,98,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1564059,2026-10-30,2026-10-29T17:00:25.166Z,Pleiku,19.6,96,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1553656,2026-10-29,2026-10-28T17:00:25.948Z,Pleiku,18.9,97,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1543253,2026-10-28,2026-10-27T17:00:25.925Z,Pleiku,18.37,94,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1532850,2026-10-27,2026-10-26T17:00:25.927Z,Pleiku,18.49,97,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1522447,2026-10-26,2026-10-25T17:00:25.813Z,Pleiku,19.16,97,mây đen u ám,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1512044,2026-10-25,2026-10-24T17:00:23.999Z,Pleiku,20.23,91,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1501667,2026-10-24,2026-10-23T17:00:26.927Z,Pleiku,19.15,89,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1491264,2026-10-23,2026-10-22T17:00:26.516Z,Pleiku,18.48,91,mây rải rác,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1480861,2026-10-22,2026-10-21T17:00:26.451Z,Pleiku,19.18,97,mây thưa,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1470458,2026-10-21,2026-10-20T17:00:26.333Z,Pleiku,19.38,96,mây cụm,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+1460055,2026-10-20,2026-10-19T17:00:25.946Z,Pleiku,18.98,97,bầu trời quang đãng,,openweathermap.org,6819.0,13.9833,108.0,Gia Lai,Pleiku
+269869,2026-06-21,2026-06-20T17:00:28.870Z,Đà Lạt,16.83,97,mây thưa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+259878,2026-06-20,2026-06-19T17:00:26.080Z,Đà Lạt,16.93,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+249887,2026-06-19,2026-06-18T17:00:27.348Z,Đà Lạt,16.87,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+239896,2026-06-18,2026-06-17T17:00:25.041Z,Đà Lạt,16.39,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+229905,2026-06-17,2026-06-16T17:00:27.985Z,Đà Lạt,16.58,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+222901,2026-06-16,2026-06-16T00:00:25.517Z,Đà Lạt,19.31,92,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+212910,2026-06-15,2026-06-15T00:00:27.603Z,Đà Lạt,18.73,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+203125,2026-06-14,2026-06-14T00:57:38.280Z,Đà Lạt,22.05,77,bầu trời quang đãng,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+193208,2026-06-13,2026-06-13T00:00:24.659Z,Đà Lạt,19.22,91,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+183217,2026-06-12,2026-06-12T00:00:27.469Z,Đà Lạt,19.29,92,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+173226,2026-06-11,2026-06-11T00:00:24.989Z,Đà Lạt,18.65,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+163235,2026-06-10,2026-06-10T00:00:24.576Z,Đà Lạt,19.6,94,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+153244,2026-06-09,2026-06-09T00:00:24.199Z,Đà Lạt,18.87,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+143253,2026-06-08,2026-06-08T00:00:24.053Z,Đà Lạt,19.09,93,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+133262,2026-06-07,2026-06-07T00:00:25.114Z,Đà Lạt,19.64,90,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+123271,2026-06-06,2026-06-06T00:00:26.108Z,Đà Lạt,18.9,91,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+113898,2026-06-05,2026-06-05T01:38:14.844Z,Đà Lạt,20.33,77,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+105143,2026-06-04,2026-06-04T00:00:24.518Z,Đà Lạt,17.96,95,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+95152,2026-06-03,2026-06-03T00:00:25.477Z,Đà Lạt,18.14,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+85161,2026-06-02,2026-06-02T00:00:25.314Z,Đà Lạt,18.34,92,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+75067,2026-06-01,2026-06-01T00:00:23.789Z,Đà Lạt,17.26,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+64973,2026-05-31,2026-05-31T00:00:24.616Z,Đà Lạt,17.59,94,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+54879,2026-05-30,2026-05-30T00:00:25.072Z,Đà Lạt,18.76,88,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+44785,2026-05-29,2026-05-29T00:00:24.292Z,Đà Lạt,18.34,92,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+34691,2026-05-28,2026-05-28T00:00:25.226Z,Đà Lạt,20.57,83,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+24494,2026-05-27,2026-05-27T00:00:25.444Z,Đà Lạt,19.78,90,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+14503,2026-05-26,2026-05-26T00:15:24.798Z,Đà Lạt,19.73,89,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+4306,2026-05-25,2026-05-25T00:00:25.352Z,Đà Lạt,20.34,91,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+30220,2026-05-24,2026-05-24T13:17:03.405Z,Đà Lạt,19.57,87,bầu trời quang đãng,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+24452,2026-05-23,2026-05-24T13:17:03.405Z,Đà Lạt,20.01,88,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+14461,2026-05-22,2026-05-24T13:17:03.405Z,Đà Lạt,19.69,90,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+4470,2026-05-21,2026-05-24T13:17:03.404Z,Đà Lạt,19.34,84,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+98,2026-05-20,2026-05-24T13:17:03.404Z,Đà Lạt,17.44,94,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+86,2026-05-19,2026-05-24T13:17:03.404Z,Đà Lạt,17.63,97,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+80,2026-05-18,2026-05-24T13:17:03.404Z,Đà Lạt,17.61,98,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+74,2026-05-17,2026-05-24T13:17:03.404Z,Đà Lạt,17.98,98,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+68,2026-05-16,2026-05-24T13:17:03.404Z,Đà Lạt,18.08,94,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+62,2026-05-15,2026-05-24T13:17:03.404Z,Đà Lạt,17.55,95,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+56,2026-05-14,2026-05-24T13:17:03.404Z,Đà Lạt,17.6,93,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+50,2026-05-13,2026-05-24T13:17:03.404Z,Đà Lạt,18.39,94,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+44,2026-05-12,2026-05-24T13:17:03.404Z,Đà Lạt,17.04,96,mây cụm,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+38,2026-05-11,2026-05-24T13:17:03.404Z,Đà Lạt,16.0,88,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+32,2026-05-10,2026-05-24T13:17:03.404Z,Đà Lạt,16.7,87,mây đen u ám,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+26,2026-05-09,2026-05-24T13:17:03.404Z,Đà Lạt,16.55,94,mây cụm,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+14,2026-04-24,2026-05-24T13:17:03.404Z,Đà Lạt,25.24,47,mây cụm,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+5,2026-04-23,2026-05-24T13:17:03.404Z,Đà Lạt,26.91,36,mây thưa,,openweathermap.org,,,,Lâm Đồng,Đà Lạt
+863282,2026-08-20,2026-08-19T17:00:29.725Z,Đà Lạt,16.79,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+853291,2026-08-19,2026-08-18T17:00:29.830Z,Đà Lạt,17.19,94,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+843300,2026-08-18,2026-08-17T17:00:26.134Z,Đà Lạt,18.58,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+833309,2026-08-17,2026-08-16T17:00:31.194Z,Đà Lạt,19.01,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+823392,2026-08-16,2026-08-15T17:00:25.276Z,Đà Lạt,16.87,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+813195,2026-08-15,2026-08-14T17:00:25.665Z,Đà Lạt,18.13,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+802998,2026-08-14,2026-08-13T17:00:25.521Z,Đà Lạt,18.4,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+793007,2026-08-13,2026-08-12T17:00:24.914Z,Đà Lạt,18.15,93,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+783531,2026-08-12,2026-08-11T17:00:25.138Z,Đà Lạt,17.15,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+773384,2026-08-11,2026-08-10T17:15:26.503Z,Đà Lạt,17.42,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+763393,2026-08-10,2026-08-09T17:00:25.811Z,Đà Lạt,17.32,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+753402,2026-08-09,2026-08-08T17:00:25.772Z,Đà Lạt,18.29,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+743411,2026-08-08,2026-08-07T17:00:26.128Z,Đà Lạt,17.46,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+733420,2026-08-07,2026-08-06T17:00:26.364Z,Đà Lạt,17.98,98,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+723738,2026-08-06,2026-08-05T17:00:27.061Z,Đà Lạt,17.08,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+713747,2026-08-05,2026-08-04T17:00:27.682Z,Đà Lạt,17.19,99,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+703756,2026-08-04,2026-08-03T17:00:25.619Z,Đà Lạt,16.85,98,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+693765,2026-08-03,2026-08-02T17:00:25.504Z,Đà Lạt,17.19,99,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+683774,2026-08-02,2026-08-01T17:00:25.545Z,Đà Lạt,16.85,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+673783,2026-08-01,2026-07-31T17:00:25.898Z,Đà Lạt,17.88,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+663792,2026-07-31,2026-07-30T17:00:25.941Z,Đà Lạt,17.79,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+653801,2026-07-30,2026-07-29T17:00:26.050Z,Đà Lạt,17.32,100,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+643810,2026-07-29,2026-07-28T17:00:25.518Z,Đà Lạt,17.15,99,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+633819,2026-07-28,2026-07-27T17:00:26.862Z,Đà Lạt,17.05,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+623828,2026-07-27,2026-07-26T17:00:26.963Z,Đà Lạt,17.68,100,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+616280,2026-07-26,2026-07-25T17:00:25.802Z,Đà Lạt,16.46,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+606289,2026-07-25,2026-07-24T17:00:27.032Z,Đà Lạt,16.45,97,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+596298,2026-07-24,2026-07-23T17:00:26.899Z,Đà Lạt,16.44,99,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+586307,2026-07-23,2026-07-22T17:00:26.705Z,Đà Lạt,16.55,96,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+576316,2026-07-22,2026-07-21T17:00:27.359Z,Đà Lạt,16.59,100,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+566325,2026-07-21,2026-07-20T17:00:26.983Z,Đà Lạt,15.79,95,bầu trời quang đãng,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+556334,2026-07-20,2026-07-19T17:00:27.919Z,Đà Lạt,15.89,97,mây thưa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+546343,2026-07-19,2026-07-18T17:00:27.299Z,Đà Lạt,16.23,99,mây thưa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+536352,2026-07-18,2026-07-17T17:00:28.721Z,Đà Lạt,16.49,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+526361,2026-07-17,2026-07-16T17:00:28.145Z,Đà Lạt,16.29,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+516370,2026-07-16,2026-07-15T17:00:26.339Z,Đà Lạt,17.33,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+506379,2026-07-15,2026-07-14T17:00:28.447Z,Đà Lạt,15.56,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+496388,2026-07-14,2026-07-13T17:00:28.054Z,Đà Lạt,17.35,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+486397,2026-07-13,2026-07-12T17:00:28.063Z,Đà Lạt,17.25,99,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+476406,2026-07-12,2026-07-11T17:00:28.879Z,Đà Lạt,17.28,98,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+466415,2026-07-11,2026-07-10T17:00:27.179Z,Đà Lạt,17.93,87,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+456424,2026-07-10,2026-07-09T17:00:28.248Z,Đà Lạt,17.09,88,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+446433,2026-07-09,2026-07-08T17:00:29.953Z,Đà Lạt,16.25,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+439297,2026-07-08,2026-07-07T17:00:31.409Z,Đà Lạt,17.0,100,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+429512,2026-07-07,2026-07-06T17:00:32.394Z,Đà Lạt,16.99,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+419521,2026-07-06,2026-07-05T17:00:30.046Z,Đà Lạt,16.65,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+409633,2026-07-05,2026-07-04T17:00:32.820Z,Đà Lạt,16.29,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+399642,2026-07-04,2026-07-03T17:00:30.600Z,Đà Lạt,17.49,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+389754,2026-07-03,2026-07-02T17:00:45.258Z,Đà Lạt,18.03,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+379769,2026-07-02,2026-07-01T17:00:31.182Z,Đà Lạt,16.9,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+369778,2026-07-01,2026-06-30T17:00:58.973Z,Đà Lạt,17.42,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+359787,2026-06-30,2026-06-29T17:00:33.390Z,Đà Lạt,17.32,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+349796,2026-06-29,2026-06-28T17:00:25.906Z,Đà Lạt,17.5,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+339805,2026-06-28,2026-06-27T17:00:26.589Z,Đà Lạt,17.35,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+329814,2026-06-27,2026-06-26T17:00:41.656Z,Đà Lạt,16.77,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+319823,2026-06-26,2026-06-25T17:00:25.158Z,Đà Lạt,16.74,100,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+309832,2026-06-25,2026-06-24T17:00:26.740Z,Đà Lạt,17.21,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+299841,2026-06-24,2026-06-23T17:00:28.347Z,Đà Lạt,16.1,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+289850,2026-06-23,2026-06-22T17:00:28.016Z,Đà Lạt,16.37,97,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+279860,2026-06-22,2026-06-21T17:00:26.155Z,Đà Lạt,16.19,94,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1451921,2026-10-19,2026-10-18T17:00:23.509Z,Đà Lạt,15.56,98,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1441518,2026-10-18,2026-10-17T17:00:26.728Z,Đà Lạt,16.4,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1431115,2026-10-17,2026-10-16T17:00:25.190Z,Đà Lạt,15.96,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1420712,2026-10-16,2026-10-15T17:00:26.464Z,Đà Lạt,16.17,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1410309,2026-10-15,2026-10-14T17:00:26.353Z,Đà Lạt,16.29,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1399906,2026-10-14,2026-10-13T17:00:27.416Z,Đà Lạt,16.36,98,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1389503,2026-10-13,2026-10-12T17:00:27.923Z,Đà Lạt,16.89,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1379100,2026-10-12,2026-10-11T17:00:25.910Z,Đà Lạt,16.11,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1368697,2026-10-11,2026-10-10T17:00:25.373Z,Đà Lạt,16.33,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1358294,2026-10-10,2026-10-09T17:00:27.076Z,Đà Lạt,16.43,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1347891,2026-10-09,2026-10-08T17:00:27.050Z,Đà Lạt,17.2,98,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1337488,2026-10-08,2026-10-07T17:00:25.700Z,Đà Lạt,16.46,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1327085,2026-10-07,2026-10-06T17:00:25.283Z,Đà Lạt,16.21,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1316682,2026-10-06,2026-10-05T17:00:24.431Z,Đà Lạt,16.25,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1306279,2026-10-05,2026-10-04T17:00:24.309Z,Đà Lạt,16.73,96,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1295876,2026-10-04,2026-10-03T17:00:24.922Z,Đà Lạt,16.77,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1285473,2026-10-03,2026-10-02T17:00:26.443Z,Đà Lạt,16.91,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1275070,2026-10-02,2026-10-01T17:00:23.519Z,Đà Lạt,16.39,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1264667,2026-10-01,2026-09-30T17:00:25.087Z,Đà Lạt,16.87,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1254264,2026-09-30,2026-09-29T17:00:25.072Z,Đà Lạt,16.79,97,mây thưa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1244273,2026-09-29,2026-09-28T17:00:27.034Z,Đà Lạt,16.21,98,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1233870,2026-09-28,2026-09-27T17:00:25.929Z,Đà Lạt,16.76,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1223467,2026-09-27,2026-09-26T17:00:26.071Z,Đà Lạt,15.98,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1213064,2026-09-26,2026-09-25T17:00:26.474Z,Đà Lạt,16.1,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1202661,2026-09-25,2026-09-24T17:00:26.502Z,Đà Lạt,16.6,98,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1192258,2026-09-24,2026-09-23T17:00:26.362Z,Đà Lạt,17.66,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1181855,2026-09-23,2026-09-22T17:00:25.623Z,Đà Lạt,17.11,99,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1171452,2026-09-22,2026-09-21T17:00:25.221Z,Đà Lạt,15.9,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1161049,2026-09-21,2026-09-20T17:00:24.426Z,Đà Lạt,16.85,98,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1150646,2026-09-20,2026-09-19T17:00:26.061Z,Đà Lạt,16.78,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1140243,2026-09-19,2026-09-18T17:00:25.805Z,Đà Lạt,16.59,98,mưa vừa,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1129943,2026-09-18,2026-09-17T17:00:24.647Z,Đà Lạt,16.39,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1119540,2026-09-17,2026-09-16T17:00:25.095Z,Đà Lạt,16.75,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1109137,2026-09-16,2026-09-15T17:00:26.359Z,Đà Lạt,17.11,97,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1098734,2026-09-15,2026-09-14T17:00:25.452Z,Đà Lạt,16.57,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1088537,2026-09-14,2026-09-13T17:00:25.975Z,Đà Lạt,16.85,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1078340,2026-09-13,2026-09-12T17:00:26.385Z,Đà Lạt,17.5,98,mưa cường độ nặng,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1069070,2026-09-12,2026-09-11T17:00:23.286Z,Đà Lạt,16.96,99,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1058873,2026-09-11,2026-09-10T17:00:25.647Z,Đà Lạt,17.2,100,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1048676,2026-09-10,2026-09-09T17:00:25.858Z,Đà Lạt,16.87,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1038479,2026-09-09,2026-09-08T17:00:24.212Z,Đà Lạt,17.48,98,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1028282,2026-09-08,2026-09-07T17:00:26.140Z,Đà Lạt,17.52,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1018085,2026-09-07,2026-09-06T17:00:26.384Z,Đà Lạt,17.61,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1007894,2026-09-06,2026-09-05T17:00:30.308Z,Đà Lạt,17.26,98,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+997697,2026-09-05,2026-09-04T17:00:26.452Z,Đà Lạt,16.72,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+991414,2026-09-04,2026-09-04T02:17:16.200Z,Đà Lạt,20.3,80,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+982865,2026-09-01,2026-08-31T17:00:24.939Z,Đà Lạt,17.83,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+972874,2026-08-31,2026-08-30T17:00:24.731Z,Đà Lạt,17.77,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+962883,2026-08-30,2026-08-29T17:00:25.996Z,Đà Lạt,17.53,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+952892,2026-08-29,2026-08-28T17:00:27.050Z,Đà Lạt,18.85,94,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+942901,2026-08-28,2026-08-27T17:00:24.740Z,Đà Lạt,18.57,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+932910,2026-08-27,2026-08-26T17:00:25.977Z,Đà Lạt,19.07,95,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+922919,2026-08-26,2026-08-25T17:00:25.322Z,Đà Lạt,18.12,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+912928,2026-08-25,2026-08-24T17:00:24.631Z,Đà Lạt,18.98,94,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+903143,2026-08-24,2026-08-23T17:00:24.262Z,Đà Lạt,18.08,96,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+893152,2026-08-23,2026-08-22T17:00:30.474Z,Đà Lạt,17.74,93,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+883161,2026-08-22,2026-08-21T17:00:24.144Z,Đà Lạt,18.06,95,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+873273,2026-08-21,2026-08-20T17:00:40.872Z,Đà Lạt,17.17,94,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1636883,2026-11-06,2026-11-05T17:00:29.429Z,Đà Lạt,15.12,92,mây rải rác,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1626480,2026-11-05,2026-11-04T17:00:32.087Z,Đà Lạt,15.3,95,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1616077,2026-11-04,2026-11-03T17:00:34.037Z,Đà Lạt,16.21,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1605674,2026-11-03,2026-11-02T17:00:29.340Z,Đà Lạt,15.7,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1595271,2026-11-02,2026-11-01T17:00:25.161Z,Đà Lạt,15.99,95,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1584868,2026-11-01,2026-10-31T17:00:28.484Z,Đà Lạt,15.59,97,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1574465,2026-10-31,2026-10-30T17:00:25.405Z,Đà Lạt,15.56,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1564062,2026-10-30,2026-10-29T17:00:25.166Z,Đà Lạt,16.46,99,mưa nhẹ,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1553659,2026-10-29,2026-10-28T17:00:25.948Z,Đà Lạt,15.43,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1543256,2026-10-28,2026-10-27T17:00:25.925Z,Đà Lạt,15.15,92,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1532853,2026-10-27,2026-10-26T17:00:25.927Z,Đà Lạt,14.33,88,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1522450,2026-10-26,2026-10-25T17:00:25.813Z,Đà Lạt,15.6,98,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1512047,2026-10-25,2026-10-24T17:00:23.999Z,Đà Lạt,15.54,95,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1501670,2026-10-24,2026-10-23T17:00:26.927Z,Đà Lạt,15.43,97,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1491267,2026-10-23,2026-10-22T17:00:26.516Z,Đà Lạt,16.28,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1480864,2026-10-22,2026-10-21T17:00:26.451Z,Đà Lạt,16.61,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1470461,2026-10-21,2026-10-20T17:00:26.333Z,Đà Lạt,16.37,96,mây cụm,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+1460058,2026-10-20,2026-10-19T17:00:25.946Z,Đà Lạt,15.89,96,mây đen u ám,,openweathermap.org,6822.0,11.9464,108.4429,Lâm Đồng,Đà Lạt
+269867,2026-06-21,2026-06-20T17:00:28.870Z,Buôn Ma Thuột,24.04,84,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+259876,2026-06-20,2026-06-19T17:00:26.080Z,Buôn Ma Thuột,22.77,95,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+249885,2026-06-19,2026-06-18T17:00:27.348Z,Buôn Ma Thuột,22.14,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+239894,2026-06-18,2026-06-17T17:00:25.041Z,Buôn Ma Thuột,20.55,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+229903,2026-06-17,2026-06-16T17:00:27.985Z,Buôn Ma Thuột,21.89,97,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+222899,2026-06-16,2026-06-16T00:00:25.517Z,Buôn Ma Thuột,23.41,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+212908,2026-06-15,2026-06-15T00:00:27.603Z,Buôn Ma Thuột,23.65,88,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+203123,2026-06-14,2026-06-14T00:57:38.280Z,Buôn Ma Thuột,27.41,69,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+193206,2026-06-13,2026-06-13T00:00:24.659Z,Buôn Ma Thuột,23.32,88,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+183215,2026-06-12,2026-06-12T00:00:27.469Z,Buôn Ma Thuột,23.1,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+173224,2026-06-11,2026-06-11T00:00:24.989Z,Buôn Ma Thuột,23.8,93,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+163233,2026-06-10,2026-06-10T00:00:24.576Z,Buôn Ma Thuột,23.72,94,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+153242,2026-06-09,2026-06-09T00:00:24.199Z,Buôn Ma Thuột,26.12,77,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+143251,2026-06-08,2026-06-08T00:00:24.053Z,Buôn Ma Thuột,25.16,84,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+133260,2026-06-07,2026-06-07T00:00:25.114Z,Buôn Ma Thuột,25.62,78,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+123269,2026-06-06,2026-06-06T00:00:26.108Z,Buôn Ma Thuột,25.47,76,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+113896,2026-06-05,2026-06-05T01:38:14.844Z,Buôn Ma Thuột,28.33,60,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+105141,2026-06-04,2026-06-04T00:00:24.518Z,Buôn Ma Thuột,23.84,86,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+95150,2026-06-03,2026-06-03T00:00:25.477Z,Buôn Ma Thuột,22.95,92,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+85159,2026-06-02,2026-06-02T00:00:25.314Z,Buôn Ma Thuột,23.03,91,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+75065,2026-06-01,2026-06-01T00:00:23.789Z,Buôn Ma Thuột,22.7,97,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+64971,2026-05-31,2026-05-31T00:00:24.616Z,Buôn Ma Thuột,22.38,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+54877,2026-05-30,2026-05-30T00:00:25.072Z,Buôn Ma Thuột,22.9,94,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+44783,2026-05-29,2026-05-29T00:00:24.292Z,Buôn Ma Thuột,23.7,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+34689,2026-05-28,2026-05-28T00:00:25.226Z,Buôn Ma Thuột,25.45,75,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+24492,2026-05-27,2026-05-27T00:00:25.444Z,Buôn Ma Thuột,24.25,89,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+14501,2026-05-26,2026-05-26T00:15:24.798Z,Buôn Ma Thuột,24.4,86,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+4304,2026-05-25,2026-05-25T00:00:25.352Z,Buôn Ma Thuột,26.63,73,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+30218,2026-05-24,2026-05-24T13:17:03.405Z,Buôn Ma Thuột,27.43,68,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+24450,2026-05-23,2026-05-24T13:17:03.405Z,Buôn Ma Thuột,24.25,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+14459,2026-05-22,2026-05-24T13:17:03.405Z,Buôn Ma Thuột,24.27,86,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+4468,2026-05-21,2026-05-24T13:17:03.404Z,Buôn Ma Thuột,23.96,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+863280,2026-08-20,2026-08-19T17:00:29.725Z,Buôn Ma Thuột,21.32,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+853289,2026-08-19,2026-08-18T17:00:29.830Z,Buôn Ma Thuột,21.45,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+843298,2026-08-18,2026-08-17T17:00:26.134Z,Buôn Ma Thuột,22.54,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+833307,2026-08-17,2026-08-16T17:00:31.194Z,Buôn Ma Thuột,22.69,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+823390,2026-08-16,2026-08-15T17:00:25.276Z,Buôn Ma Thuột,21.54,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+813193,2026-08-15,2026-08-14T17:00:25.665Z,Buôn Ma Thuột,21.93,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+802996,2026-08-14,2026-08-13T17:00:25.521Z,Buôn Ma Thuột,22.62,97,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+793005,2026-08-13,2026-08-12T17:00:24.914Z,Buôn Ma Thuột,21.97,97,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+783529,2026-08-12,2026-08-11T17:00:25.138Z,Buôn Ma Thuột,22.28,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+773382,2026-08-11,2026-08-10T17:15:26.503Z,Buôn Ma Thuột,20.98,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+763391,2026-08-10,2026-08-09T17:00:25.811Z,Buôn Ma Thuột,21.83,99,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+753400,2026-08-09,2026-08-08T17:00:25.772Z,Buôn Ma Thuột,22.13,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+743409,2026-08-08,2026-08-07T17:00:26.128Z,Buôn Ma Thuột,22.31,95,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+733418,2026-08-07,2026-08-06T17:00:26.364Z,Buôn Ma Thuột,22.03,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+723736,2026-08-06,2026-08-05T17:00:27.061Z,Buôn Ma Thuột,21.78,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+713745,2026-08-05,2026-08-04T17:00:27.682Z,Buôn Ma Thuột,21.85,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+703754,2026-08-04,2026-08-03T17:00:25.619Z,Buôn Ma Thuột,22.47,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+693763,2026-08-03,2026-08-02T17:00:25.504Z,Buôn Ma Thuột,22.25,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+683772,2026-08-02,2026-08-01T17:00:25.545Z,Buôn Ma Thuột,22.31,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+673781,2026-08-01,2026-07-31T17:00:25.898Z,Buôn Ma Thuột,22.13,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+663790,2026-07-31,2026-07-30T17:00:25.941Z,Buôn Ma Thuột,22.14,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+653799,2026-07-30,2026-07-29T17:00:26.050Z,Buôn Ma Thuột,22.13,99,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+643808,2026-07-29,2026-07-28T17:00:25.518Z,Buôn Ma Thuột,21.54,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+633817,2026-07-28,2026-07-27T17:00:26.862Z,Buôn Ma Thuột,21.65,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+623826,2026-07-27,2026-07-26T17:00:26.963Z,Buôn Ma Thuột,21.84,99,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+616278,2026-07-26,2026-07-25T17:00:25.802Z,Buôn Ma Thuột,21.45,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+606287,2026-07-25,2026-07-24T17:00:27.032Z,Buôn Ma Thuột,21.34,98,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+596296,2026-07-24,2026-07-23T17:00:26.899Z,Buôn Ma Thuột,21.31,98,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+586305,2026-07-23,2026-07-22T17:00:26.705Z,Buôn Ma Thuột,21.54,97,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+576314,2026-07-22,2026-07-21T17:00:27.359Z,Buôn Ma Thuột,22.17,95,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+566323,2026-07-21,2026-07-20T17:00:26.983Z,Buôn Ma Thuột,22.36,84,bầu trời quang đãng,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+556332,2026-07-20,2026-07-19T17:00:27.919Z,Buôn Ma Thuột,21.18,97,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+546341,2026-07-19,2026-07-18T17:00:27.299Z,Buôn Ma Thuột,21.44,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+536350,2026-07-18,2026-07-17T17:00:28.721Z,Buôn Ma Thuột,21.47,97,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+526359,2026-07-17,2026-07-16T17:00:28.145Z,Buôn Ma Thuột,21.17,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+516368,2026-07-16,2026-07-15T17:00:26.339Z,Buôn Ma Thuột,21.53,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+506377,2026-07-15,2026-07-14T17:00:28.447Z,Buôn Ma Thuột,21.23,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+496386,2026-07-14,2026-07-13T17:00:28.054Z,Buôn Ma Thuột,21.46,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+486395,2026-07-13,2026-07-12T17:00:28.063Z,Buôn Ma Thuột,21.76,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+476404,2026-07-12,2026-07-11T17:00:28.879Z,Buôn Ma Thuột,21.06,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+466413,2026-07-11,2026-07-10T17:00:27.179Z,Buôn Ma Thuột,21.2,90,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+456422,2026-07-10,2026-07-09T17:00:28.248Z,Buôn Ma Thuột,20.84,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+446431,2026-07-09,2026-07-08T17:00:29.953Z,Buôn Ma Thuột,21.32,96,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+439295,2026-07-08,2026-07-07T17:00:31.409Z,Buôn Ma Thuột,21.67,100,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+429510,2026-07-07,2026-07-06T17:00:32.394Z,Buôn Ma Thuột,21.56,100,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+419519,2026-07-06,2026-07-05T17:00:30.046Z,Buôn Ma Thuột,21.54,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+409631,2026-07-05,2026-07-04T17:00:32.820Z,Buôn Ma Thuột,21.79,93,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+399640,2026-07-04,2026-07-03T17:00:30.600Z,Buôn Ma Thuột,21.81,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+389752,2026-07-03,2026-07-02T17:00:45.258Z,Buôn Ma Thuột,22.17,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+379767,2026-07-02,2026-07-01T17:00:31.182Z,Buôn Ma Thuột,22.09,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+369776,2026-07-01,2026-06-30T17:00:58.973Z,Buôn Ma Thuột,22.24,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+359785,2026-06-30,2026-06-29T17:00:33.390Z,Buôn Ma Thuột,22.72,96,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+349794,2026-06-29,2026-06-28T17:00:25.906Z,Buôn Ma Thuột,23.06,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+339803,2026-06-28,2026-06-27T17:00:26.589Z,Buôn Ma Thuột,22.37,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+329812,2026-06-27,2026-06-26T17:00:41.656Z,Buôn Ma Thuột,22.81,91,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+319821,2026-06-26,2026-06-25T17:00:25.158Z,Buôn Ma Thuột,22.73,91,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+309830,2026-06-25,2026-06-24T17:00:26.740Z,Buôn Ma Thuột,23.27,85,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+299839,2026-06-24,2026-06-23T17:00:28.347Z,Buôn Ma Thuột,21.63,95,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+289848,2026-06-23,2026-06-22T17:00:28.016Z,Buôn Ma Thuột,21.69,95,bầu trời quang đãng,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+279858,2026-06-22,2026-06-21T17:00:26.155Z,Buôn Ma Thuột,20.08,95,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1451919,2026-10-19,2026-10-18T17:00:23.509Z,Buôn Ma Thuột,21.98,91,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1441516,2026-10-18,2026-10-17T17:00:26.728Z,Buôn Ma Thuột,22.08,95,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1431113,2026-10-17,2026-10-16T17:00:25.190Z,Buôn Ma Thuột,22.08,93,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1420710,2026-10-16,2026-10-15T17:00:26.464Z,Buôn Ma Thuột,21.45,81,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1410307,2026-10-15,2026-10-14T17:00:26.353Z,Buôn Ma Thuột,22.39,90,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1399904,2026-10-14,2026-10-13T17:00:27.416Z,Buôn Ma Thuột,22.37,93,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1389501,2026-10-13,2026-10-12T17:00:27.923Z,Buôn Ma Thuột,22.71,93,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1379098,2026-10-12,2026-10-11T17:00:25.910Z,Buôn Ma Thuột,22.52,90,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1368695,2026-10-11,2026-10-10T17:00:25.373Z,Buôn Ma Thuột,22.53,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1358292,2026-10-10,2026-10-09T17:00:27.076Z,Buôn Ma Thuột,22.04,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1347889,2026-10-09,2026-10-08T17:00:27.050Z,Buôn Ma Thuột,21.91,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1337486,2026-10-08,2026-10-07T17:00:25.700Z,Buôn Ma Thuột,20.88,98,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1327083,2026-10-07,2026-10-06T17:00:25.283Z,Buôn Ma Thuột,21.11,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1316680,2026-10-06,2026-10-05T17:00:24.431Z,Buôn Ma Thuột,21.88,93,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1306277,2026-10-05,2026-10-04T17:00:24.309Z,Buôn Ma Thuột,22.0,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1295874,2026-10-04,2026-10-03T17:00:24.922Z,Buôn Ma Thuột,22.17,99,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1285471,2026-10-03,2026-10-02T17:00:26.443Z,Buôn Ma Thuột,21.81,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1275068,2026-10-02,2026-10-01T17:00:23.519Z,Buôn Ma Thuột,21.67,99,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1264665,2026-10-01,2026-09-30T17:00:25.087Z,Buôn Ma Thuột,21.74,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1254262,2026-09-30,2026-09-29T17:00:25.072Z,Buôn Ma Thuột,22.06,98,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1244271,2026-09-29,2026-09-28T17:00:27.034Z,Buôn Ma Thuột,21.32,99,mưa vừa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1233868,2026-09-28,2026-09-27T17:00:25.929Z,Buôn Ma Thuột,22.01,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1223465,2026-09-27,2026-09-26T17:00:26.071Z,Buôn Ma Thuột,21.24,99,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1213062,2026-09-26,2026-09-25T17:00:26.474Z,Buôn Ma Thuột,21.62,99,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1202659,2026-09-25,2026-09-24T17:00:26.502Z,Buôn Ma Thuột,22.19,95,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1192256,2026-09-24,2026-09-23T17:00:26.362Z,Buôn Ma Thuột,21.95,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1181853,2026-09-23,2026-09-22T17:00:25.623Z,Buôn Ma Thuột,21.94,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1171450,2026-09-22,2026-09-21T17:00:25.221Z,Buôn Ma Thuột,21.27,96,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1161047,2026-09-21,2026-09-20T17:00:24.426Z,Buôn Ma Thuột,21.63,98,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1150644,2026-09-20,2026-09-19T17:00:26.061Z,Buôn Ma Thuột,22.18,95,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1140241,2026-09-19,2026-09-18T17:00:25.805Z,Buôn Ma Thuột,22.0,96,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1129941,2026-09-18,2026-09-17T17:00:24.647Z,Buôn Ma Thuột,22.35,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1119538,2026-09-17,2026-09-16T17:00:25.095Z,Buôn Ma Thuột,21.8,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1109135,2026-09-16,2026-09-15T17:00:26.359Z,Buôn Ma Thuột,21.57,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1098732,2026-09-15,2026-09-14T17:00:25.452Z,Buôn Ma Thuột,21.43,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1088535,2026-09-14,2026-09-13T17:00:25.975Z,Buôn Ma Thuột,21.9,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1078338,2026-09-13,2026-09-12T17:00:26.385Z,Buôn Ma Thuột,21.9,99,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1069068,2026-09-12,2026-09-11T17:00:23.286Z,Buôn Ma Thuột,21.25,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1058871,2026-09-11,2026-09-10T17:00:25.647Z,Buôn Ma Thuột,21.16,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1048674,2026-09-10,2026-09-09T17:00:25.858Z,Buôn Ma Thuột,21.84,98,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1038477,2026-09-09,2026-09-08T17:00:24.212Z,Buôn Ma Thuột,22.23,97,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1028280,2026-09-08,2026-09-07T17:00:26.140Z,Buôn Ma Thuột,22.28,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1018083,2026-09-07,2026-09-06T17:00:26.384Z,Buôn Ma Thuột,21.78,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1007892,2026-09-06,2026-09-05T17:00:30.308Z,Buôn Ma Thuột,22.28,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+997695,2026-09-05,2026-09-04T17:00:26.452Z,Buôn Ma Thuột,22.17,97,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+991412,2026-09-04,2026-09-04T02:17:16.200Z,Buôn Ma Thuột,24.45,88,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+982863,2026-09-01,2026-08-31T17:00:24.939Z,Buôn Ma Thuột,21.75,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+972872,2026-08-31,2026-08-30T17:00:24.731Z,Buôn Ma Thuột,21.94,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+962881,2026-08-30,2026-08-29T17:00:25.996Z,Buôn Ma Thuột,21.81,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+952890,2026-08-29,2026-08-28T17:00:27.050Z,Buôn Ma Thuột,22.52,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+942899,2026-08-28,2026-08-27T17:00:24.740Z,Buôn Ma Thuột,22.37,95,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+932908,2026-08-27,2026-08-26T17:00:25.977Z,Buôn Ma Thuột,23.05,94,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+922917,2026-08-26,2026-08-25T17:00:25.322Z,Buôn Ma Thuột,23.27,87,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+912926,2026-08-25,2026-08-24T17:00:24.631Z,Buôn Ma Thuột,22.37,97,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+903141,2026-08-24,2026-08-23T17:00:24.262Z,Buôn Ma Thuột,22.17,97,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+893150,2026-08-23,2026-08-22T17:00:30.474Z,Buôn Ma Thuột,21.56,95,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+883159,2026-08-22,2026-08-21T17:00:24.144Z,Buôn Ma Thuột,21.96,89,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+873271,2026-08-21,2026-08-20T17:00:40.872Z,Buôn Ma Thuột,21.69,98,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1636881,2026-11-06,2026-11-05T17:00:29.429Z,Buôn Ma Thuột,21.86,94,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1626478,2026-11-05,2026-11-04T17:00:32.087Z,Buôn Ma Thuột,21.73,96,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1616075,2026-11-04,2026-11-03T17:00:34.037Z,Buôn Ma Thuột,22.04,96,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1605672,2026-11-03,2026-11-02T17:00:29.340Z,Buôn Ma Thuột,21.75,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1595269,2026-11-02,2026-11-01T17:00:25.161Z,Buôn Ma Thuột,21.75,93,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1584866,2026-11-01,2026-10-31T17:00:28.484Z,Buôn Ma Thuột,22.01,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1574463,2026-10-31,2026-10-30T17:00:25.405Z,Buôn Ma Thuột,22.41,91,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1564060,2026-10-30,2026-10-29T17:00:25.166Z,Buôn Ma Thuột,23.18,87,mưa nhẹ,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1553657,2026-10-29,2026-10-28T17:00:25.948Z,Buôn Ma Thuột,22.29,89,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1543254,2026-10-28,2026-10-27T17:00:25.925Z,Buôn Ma Thuột,22.0,87,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1532851,2026-10-27,2026-10-26T17:00:25.927Z,Buôn Ma Thuột,20.99,93,mây rải rác,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1522448,2026-10-26,2026-10-25T17:00:25.813Z,Buôn Ma Thuột,21.37,94,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1512045,2026-10-25,2026-10-24T17:00:23.999Z,Buôn Ma Thuột,20.75,89,mây cụm,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1501668,2026-10-24,2026-10-23T17:00:26.927Z,Buôn Ma Thuột,19.99,90,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1491265,2026-10-23,2026-10-22T17:00:26.516Z,Buôn Ma Thuột,21.41,87,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1480862,2026-10-22,2026-10-21T17:00:26.451Z,Buôn Ma Thuột,21.64,95,mây thưa,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1470459,2026-10-21,2026-10-20T17:00:26.333Z,Buôn Ma Thuột,21.16,97,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+1460056,2026-10-20,2026-10-19T17:00:25.946Z,Buôn Ma Thuột,21.6,92,mây đen u ám,,openweathermap.org,6820.0,12.6667,108.05,Đắk Lắk,Buôn Ma Thuột
+269868,2026-06-21,2026-06-20T17:00:28.870Z,Gia Nghĩa,21.28,97,bầu trời quang đãng,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+259877,2026-06-20,2026-06-19T17:00:26.080Z,Gia Nghĩa,21.41,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+249886,2026-06-19,2026-06-18T17:00:27.348Z,Gia Nghĩa,20.95,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+239895,2026-06-18,2026-06-17T17:00:25.041Z,Gia Nghĩa,21.1,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+229904,2026-06-17,2026-06-16T17:00:27.985Z,Gia Nghĩa,20.99,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+222900,2026-06-16,2026-06-16T00:00:25.517Z,Gia Nghĩa,22.43,97,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+212909,2026-06-15,2026-06-15T00:00:27.603Z,Gia Nghĩa,22.26,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+203124,2026-06-14,2026-06-14T00:57:38.280Z,Gia Nghĩa,24.59,84,mây thưa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+193207,2026-06-13,2026-06-13T00:00:24.659Z,Gia Nghĩa,21.8,97,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+183216,2026-06-12,2026-06-12T00:00:27.469Z,Gia Nghĩa,21.99,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+173225,2026-06-11,2026-06-11T00:00:24.989Z,Gia Nghĩa,22.09,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+163234,2026-06-10,2026-06-10T00:00:24.576Z,Gia Nghĩa,23.13,97,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+153243,2026-06-09,2026-06-09T00:00:24.199Z,Gia Nghĩa,23.37,94,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+143252,2026-06-08,2026-06-08T00:00:24.053Z,Gia Nghĩa,23.03,96,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+133261,2026-06-07,2026-06-07T00:00:25.114Z,Gia Nghĩa,23.55,89,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+123270,2026-06-06,2026-06-06T00:00:26.108Z,Gia Nghĩa,23.01,93,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+113897,2026-06-05,2026-06-05T01:38:14.844Z,Gia Nghĩa,25.15,84,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+105142,2026-06-04,2026-06-04T00:00:24.518Z,Gia Nghĩa,22.0,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+95151,2026-06-03,2026-06-03T00:00:25.477Z,Gia Nghĩa,21.07,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+85160,2026-06-02,2026-06-02T00:00:25.314Z,Gia Nghĩa,21.98,96,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+75066,2026-06-01,2026-06-01T00:00:23.789Z,Gia Nghĩa,20.81,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+64972,2026-05-31,2026-05-31T00:00:24.616Z,Gia Nghĩa,21.86,96,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+54878,2026-05-30,2026-05-30T00:00:25.072Z,Gia Nghĩa,20.8,97,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+44784,2026-05-29,2026-05-29T00:00:24.292Z,Gia Nghĩa,20.9,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+34690,2026-05-28,2026-05-28T00:00:25.226Z,Gia Nghĩa,22.92,96,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+24493,2026-05-27,2026-05-27T00:00:25.444Z,Gia Nghĩa,23.29,96,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+14502,2026-05-26,2026-05-26T00:15:24.798Z,Gia Nghĩa,22.46,97,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+4305,2026-05-25,2026-05-25T00:00:25.352Z,Gia Nghĩa,23.27,95,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+30219,2026-05-24,2026-05-24T13:17:03.405Z,Gia Nghĩa,25.9,92,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+24451,2026-05-23,2026-05-24T13:17:03.405Z,Gia Nghĩa,23.13,96,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+14460,2026-05-22,2026-05-24T13:17:03.405Z,Gia Nghĩa,22.59,97,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+4469,2026-05-21,2026-05-24T13:17:03.404Z,Gia Nghĩa,22.68,97,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+863281,2026-08-20,2026-08-19T17:00:29.725Z,Gia Nghĩa,20.78,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+853290,2026-08-19,2026-08-18T17:00:29.830Z,Gia Nghĩa,20.5,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+843299,2026-08-18,2026-08-17T17:00:26.134Z,Gia Nghĩa,21.84,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+833308,2026-08-17,2026-08-16T17:00:31.194Z,Gia Nghĩa,22.6,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+823391,2026-08-16,2026-08-15T17:00:25.276Z,Gia Nghĩa,20.34,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+813194,2026-08-15,2026-08-14T17:00:25.665Z,Gia Nghĩa,21.99,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+802997,2026-08-14,2026-08-13T17:00:25.521Z,Gia Nghĩa,22.21,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+793006,2026-08-13,2026-08-12T17:00:24.914Z,Gia Nghĩa,21.42,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+783530,2026-08-12,2026-08-11T17:00:25.138Z,Gia Nghĩa,20.86,100,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+773383,2026-08-11,2026-08-10T17:15:26.503Z,Gia Nghĩa,21.16,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+763392,2026-08-10,2026-08-09T17:00:25.811Z,Gia Nghĩa,21.44,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+753401,2026-08-09,2026-08-08T17:00:25.772Z,Gia Nghĩa,21.71,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+743410,2026-08-08,2026-08-07T17:00:26.128Z,Gia Nghĩa,21.58,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+733419,2026-08-07,2026-08-06T17:00:26.364Z,Gia Nghĩa,21.29,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+723737,2026-08-06,2026-08-05T17:00:27.061Z,Gia Nghĩa,21.25,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+713746,2026-08-05,2026-08-04T17:00:27.682Z,Gia Nghĩa,21.01,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+703755,2026-08-04,2026-08-03T17:00:25.619Z,Gia Nghĩa,21.28,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+693764,2026-08-03,2026-08-02T17:00:25.504Z,Gia Nghĩa,22.07,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+683773,2026-08-02,2026-08-01T17:00:25.545Z,Gia Nghĩa,21.56,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+673782,2026-08-01,2026-07-31T17:00:25.898Z,Gia Nghĩa,21.55,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+663791,2026-07-31,2026-07-30T17:00:25.941Z,Gia Nghĩa,21.66,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+653800,2026-07-30,2026-07-29T17:00:26.050Z,Gia Nghĩa,21.27,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+643809,2026-07-29,2026-07-28T17:00:25.518Z,Gia Nghĩa,21.32,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+633818,2026-07-28,2026-07-27T17:00:26.862Z,Gia Nghĩa,21.25,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+623827,2026-07-27,2026-07-26T17:00:26.963Z,Gia Nghĩa,20.79,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+616279,2026-07-26,2026-07-25T17:00:25.802Z,Gia Nghĩa,20.75,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+606288,2026-07-25,2026-07-24T17:00:27.032Z,Gia Nghĩa,20.26,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+596297,2026-07-24,2026-07-23T17:00:26.899Z,Gia Nghĩa,21.37,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+586306,2026-07-23,2026-07-22T17:00:26.705Z,Gia Nghĩa,21.17,98,mây thưa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+576315,2026-07-22,2026-07-21T17:00:27.359Z,Gia Nghĩa,21.13,92,mây rải rác,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+566324,2026-07-21,2026-07-20T17:00:26.983Z,Gia Nghĩa,21.12,94,mây thưa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+556333,2026-07-20,2026-07-19T17:00:27.919Z,Gia Nghĩa,19.98,99,bầu trời quang đãng,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+546342,2026-07-19,2026-07-18T17:00:27.299Z,Gia Nghĩa,20.34,99,mây thưa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+536351,2026-07-18,2026-07-17T17:00:28.721Z,Gia Nghĩa,20.37,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+526360,2026-07-17,2026-07-16T17:00:28.145Z,Gia Nghĩa,20.44,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+516369,2026-07-16,2026-07-15T17:00:26.339Z,Gia Nghĩa,21.54,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+506378,2026-07-15,2026-07-14T17:00:28.447Z,Gia Nghĩa,20.45,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+496387,2026-07-14,2026-07-13T17:00:28.054Z,Gia Nghĩa,21.21,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+486396,2026-07-13,2026-07-12T17:00:28.063Z,Gia Nghĩa,21.5,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+476405,2026-07-12,2026-07-11T17:00:28.879Z,Gia Nghĩa,20.37,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+466414,2026-07-11,2026-07-10T17:00:27.179Z,Gia Nghĩa,20.21,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+456423,2026-07-10,2026-07-09T17:00:28.248Z,Gia Nghĩa,20.17,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+446432,2026-07-09,2026-07-08T17:00:29.953Z,Gia Nghĩa,20.58,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+439296,2026-07-08,2026-07-07T17:00:31.409Z,Gia Nghĩa,21.42,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+429511,2026-07-07,2026-07-06T17:00:32.394Z,Gia Nghĩa,21.02,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+419520,2026-07-06,2026-07-05T17:00:30.046Z,Gia Nghĩa,20.47,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+409632,2026-07-05,2026-07-04T17:00:32.820Z,Gia Nghĩa,20.4,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+399641,2026-07-04,2026-07-03T17:00:30.600Z,Gia Nghĩa,21.38,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+389753,2026-07-03,2026-07-02T17:00:45.258Z,Gia Nghĩa,21.71,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+379768,2026-07-02,2026-07-01T17:00:31.182Z,Gia Nghĩa,20.74,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+369777,2026-07-01,2026-06-30T17:00:58.973Z,Gia Nghĩa,21.64,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+359786,2026-06-30,2026-06-29T17:00:33.390Z,Gia Nghĩa,21.61,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+349795,2026-06-29,2026-06-28T17:00:25.906Z,Gia Nghĩa,21.4,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+339804,2026-06-28,2026-06-27T17:00:26.589Z,Gia Nghĩa,22.14,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+329813,2026-06-27,2026-06-26T17:00:41.656Z,Gia Nghĩa,21.19,97,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+319822,2026-06-26,2026-06-25T17:00:25.158Z,Gia Nghĩa,21.7,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+309831,2026-06-25,2026-06-24T17:00:26.740Z,Gia Nghĩa,20.95,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+299840,2026-06-24,2026-06-23T17:00:28.347Z,Gia Nghĩa,20.83,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+289849,2026-06-23,2026-06-22T17:00:28.016Z,Gia Nghĩa,20.65,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+279859,2026-06-22,2026-06-21T17:00:26.155Z,Gia Nghĩa,20.76,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1451920,2026-10-19,2026-10-18T17:00:23.509Z,Gia Nghĩa,20.5,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1441517,2026-10-18,2026-10-17T17:00:26.728Z,Gia Nghĩa,21.08,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1431114,2026-10-17,2026-10-16T17:00:25.190Z,Gia Nghĩa,21.36,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1420711,2026-10-16,2026-10-15T17:00:26.464Z,Gia Nghĩa,21.1,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1410308,2026-10-15,2026-10-14T17:00:26.353Z,Gia Nghĩa,21.72,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1399905,2026-10-14,2026-10-13T17:00:27.416Z,Gia Nghĩa,20.57,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1389502,2026-10-13,2026-10-12T17:00:27.923Z,Gia Nghĩa,21.43,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1379099,2026-10-12,2026-10-11T17:00:25.910Z,Gia Nghĩa,20.9,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1368696,2026-10-11,2026-10-10T17:00:25.373Z,Gia Nghĩa,21.2,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1358293,2026-10-10,2026-10-09T17:00:27.076Z,Gia Nghĩa,20.66,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1347890,2026-10-09,2026-10-08T17:00:27.050Z,Gia Nghĩa,20.82,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1337487,2026-10-08,2026-10-07T17:00:25.700Z,Gia Nghĩa,19.85,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1327084,2026-10-07,2026-10-06T17:00:25.283Z,Gia Nghĩa,20.6,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1316681,2026-10-06,2026-10-05T17:00:24.431Z,Gia Nghĩa,20.53,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1306278,2026-10-05,2026-10-04T17:00:24.309Z,Gia Nghĩa,21.54,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1295875,2026-10-04,2026-10-03T17:00:24.922Z,Gia Nghĩa,21.06,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1285472,2026-10-03,2026-10-02T17:00:26.443Z,Gia Nghĩa,21.07,99,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1275069,2026-10-02,2026-10-01T17:00:23.519Z,Gia Nghĩa,20.59,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1264666,2026-10-01,2026-09-30T17:00:25.087Z,Gia Nghĩa,20.36,99,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1254263,2026-09-30,2026-09-29T17:00:25.072Z,Gia Nghĩa,20.91,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1244272,2026-09-29,2026-09-28T17:00:27.034Z,Gia Nghĩa,20.89,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1233869,2026-09-28,2026-09-27T17:00:25.929Z,Gia Nghĩa,21.02,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1223466,2026-09-27,2026-09-26T17:00:26.071Z,Gia Nghĩa,20.49,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1213063,2026-09-26,2026-09-25T17:00:26.474Z,Gia Nghĩa,20.75,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1202660,2026-09-25,2026-09-24T17:00:26.502Z,Gia Nghĩa,21.23,97,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1192257,2026-09-24,2026-09-23T17:00:26.362Z,Gia Nghĩa,21.07,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1181854,2026-09-23,2026-09-22T17:00:25.623Z,Gia Nghĩa,20.99,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1171451,2026-09-22,2026-09-21T17:00:25.221Z,Gia Nghĩa,20.51,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1161048,2026-09-21,2026-09-20T17:00:24.426Z,Gia Nghĩa,20.92,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1150645,2026-09-20,2026-09-19T17:00:26.061Z,Gia Nghĩa,21.41,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1140242,2026-09-19,2026-09-18T17:00:25.805Z,Gia Nghĩa,21.1,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1129942,2026-09-18,2026-09-17T17:00:24.647Z,Gia Nghĩa,21.64,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1119539,2026-09-17,2026-09-16T17:00:25.095Z,Gia Nghĩa,20.55,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1109136,2026-09-16,2026-09-15T17:00:26.359Z,Gia Nghĩa,20.94,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1098733,2026-09-15,2026-09-14T17:00:25.452Z,Gia Nghĩa,20.4,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1088536,2026-09-14,2026-09-13T17:00:25.975Z,Gia Nghĩa,21.17,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1078339,2026-09-13,2026-09-12T17:00:26.385Z,Gia Nghĩa,21.43,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1069069,2026-09-12,2026-09-11T17:00:23.286Z,Gia Nghĩa,20.69,100,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1058872,2026-09-11,2026-09-10T17:00:25.647Z,Gia Nghĩa,20.4,100,mưa vừa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1048675,2026-09-10,2026-09-09T17:00:25.858Z,Gia Nghĩa,21.4,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1038478,2026-09-09,2026-09-08T17:00:24.212Z,Gia Nghĩa,22.04,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1028281,2026-09-08,2026-09-07T17:00:26.140Z,Gia Nghĩa,22.17,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1018084,2026-09-07,2026-09-06T17:00:26.384Z,Gia Nghĩa,20.98,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1007893,2026-09-06,2026-09-05T17:00:30.308Z,Gia Nghĩa,20.99,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+997696,2026-09-05,2026-09-04T17:00:26.452Z,Gia Nghĩa,20.58,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+991413,2026-09-04,2026-09-04T02:17:16.200Z,Gia Nghĩa,24.86,89,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+982864,2026-09-01,2026-08-31T17:00:24.939Z,Gia Nghĩa,21.4,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+972873,2026-08-31,2026-08-30T17:00:24.731Z,Gia Nghĩa,21.55,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+962882,2026-08-30,2026-08-29T17:00:25.996Z,Gia Nghĩa,21.08,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+952891,2026-08-29,2026-08-28T17:00:27.050Z,Gia Nghĩa,21.57,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+942900,2026-08-28,2026-08-27T17:00:24.740Z,Gia Nghĩa,21.81,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+932909,2026-08-27,2026-08-26T17:00:25.977Z,Gia Nghĩa,22.26,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+922918,2026-08-26,2026-08-25T17:00:25.322Z,Gia Nghĩa,22.47,95,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+912927,2026-08-25,2026-08-24T17:00:24.631Z,Gia Nghĩa,22.29,98,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+903142,2026-08-24,2026-08-23T17:00:24.262Z,Gia Nghĩa,22.07,98,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+893151,2026-08-23,2026-08-22T17:00:30.474Z,Gia Nghĩa,21.45,98,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+883160,2026-08-22,2026-08-21T17:00:24.144Z,Gia Nghĩa,21.92,94,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+873272,2026-08-21,2026-08-20T17:00:40.872Z,Gia Nghĩa,21.19,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1636882,2026-11-06,2026-11-05T17:00:29.429Z,Gia Nghĩa,20.73,99,mây rải rác,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1626479,2026-11-05,2026-11-04T17:00:32.087Z,Gia Nghĩa,20.21,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1616076,2026-11-04,2026-11-03T17:00:34.037Z,Gia Nghĩa,21.13,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1605673,2026-11-03,2026-11-02T17:00:29.340Z,Gia Nghĩa,20.47,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1595270,2026-11-02,2026-11-01T17:00:25.161Z,Gia Nghĩa,20.66,99,mây rải rác,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1584867,2026-11-01,2026-10-31T17:00:28.484Z,Gia Nghĩa,20.8,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1574464,2026-10-31,2026-10-30T17:00:25.405Z,Gia Nghĩa,21.25,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1564061,2026-10-30,2026-10-29T17:00:25.166Z,Gia Nghĩa,21.12,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1553658,2026-10-29,2026-10-28T17:00:25.948Z,Gia Nghĩa,21.1,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1543255,2026-10-28,2026-10-27T17:00:25.925Z,Gia Nghĩa,20.7,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1532852,2026-10-27,2026-10-26T17:00:25.927Z,Gia Nghĩa,20.21,98,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1522449,2026-10-26,2026-10-25T17:00:25.813Z,Gia Nghĩa,20.71,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1512046,2026-10-25,2026-10-24T17:00:23.999Z,Gia Nghĩa,20.84,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1501669,2026-10-24,2026-10-23T17:00:26.927Z,Gia Nghĩa,20.62,99,mây cụm,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1491266,2026-10-23,2026-10-22T17:00:26.516Z,Gia Nghĩa,20.26,99,mây thưa,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1480863,2026-10-22,2026-10-21T17:00:26.451Z,Gia Nghĩa,21.27,99,mưa nhẹ,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1470460,2026-10-21,2026-10-20T17:00:26.333Z,Gia Nghĩa,20.24,99,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+1460057,2026-10-20,2026-10-19T17:00:25.946Z,Gia Nghĩa,21.09,100,mây đen u ám,,openweathermap.org,6821.0,11.9933,107.6989,Đắk Nông,Gia Nghĩa
+269870,2026-06-21,2026-06-20T17:00:28.870Z,Đồng Xoài,25.41,94,mây thưa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+259879,2026-06-20,2026-06-19T17:00:26.080Z,Đồng Xoài,26.01,93,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+249888,2026-06-19,2026-06-18T17:00:27.348Z,Đồng Xoài,24.34,98,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+239897,2026-06-18,2026-06-17T17:00:25.041Z,Đồng Xoài,25.45,92,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+229906,2026-06-17,2026-06-16T17:00:27.985Z,Đồng Xoài,24.34,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+222902,2026-06-16,2026-06-16T00:00:25.517Z,Đồng Xoài,26.57,85,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+212911,2026-06-15,2026-06-15T00:00:27.603Z,Đồng Xoài,26.01,91,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+203126,2026-06-14,2026-06-14T00:57:38.280Z,Đồng Xoài,28.23,82,mây thưa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+193209,2026-06-13,2026-06-13T00:00:24.659Z,Đồng Xoài,26.57,90,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+183218,2026-06-12,2026-06-12T00:00:27.469Z,Đồng Xoài,25.93,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+173227,2026-06-11,2026-06-11T00:00:24.989Z,Đồng Xoài,27.68,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+163236,2026-06-10,2026-06-10T00:00:24.576Z,Đồng Xoài,26.01,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+153245,2026-06-09,2026-06-09T00:00:24.199Z,Đồng Xoài,27.68,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+143254,2026-06-08,2026-06-08T00:00:24.053Z,Đồng Xoài,26.57,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+133263,2026-06-07,2026-06-07T00:00:25.114Z,Đồng Xoài,27.08,88,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+123272,2026-06-06,2026-06-06T00:00:26.108Z,Đồng Xoài,27.68,88,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+113899,2026-06-05,2026-06-05T01:38:14.844Z,Đồng Xoài,29.9,82,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+105144,2026-06-04,2026-06-04T00:00:24.518Z,Đồng Xoài,26.57,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+95153,2026-06-03,2026-06-03T00:00:25.477Z,Đồng Xoài,24.9,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+85162,2026-06-02,2026-06-02T00:00:25.314Z,Đồng Xoài,25.45,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+75068,2026-06-01,2026-06-01T00:00:23.789Z,Đồng Xoài,26.01,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+64974,2026-05-31,2026-05-31T00:00:24.616Z,Đồng Xoài,24.34,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+54880,2026-05-30,2026-05-30T00:00:25.072Z,Đồng Xoài,25.45,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+44786,2026-05-29,2026-05-29T00:00:24.292Z,Đồng Xoài,26.57,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+34692,2026-05-28,2026-05-28T00:00:25.226Z,Đồng Xoài,28.79,90,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+24495,2026-05-27,2026-05-27T00:00:25.444Z,Đồng Xoài,28.23,83,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+14504,2026-05-26,2026-05-26T00:15:24.798Z,Đồng Xoài,26.94,88,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+4307,2026-05-25,2026-05-25T00:00:25.352Z,Đồng Xoài,26.57,88,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+30221,2026-05-24,2026-05-24T13:17:03.405Z,Đồng Xoài,30.45,80,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+24453,2026-05-23,2026-05-24T13:17:03.405Z,Đồng Xoài,24.34,89,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+14462,2026-05-22,2026-05-24T13:17:03.405Z,Đồng Xoài,26.92,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+4471,2026-05-21,2026-05-24T13:17:03.404Z,Đồng Xoài,26.57,83,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+863283,2026-08-20,2026-08-19T17:00:29.725Z,Đồng Xoài,25.45,97,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+853292,2026-08-19,2026-08-18T17:00:29.830Z,Đồng Xoài,24.34,98,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+843301,2026-08-18,2026-08-17T17:00:26.134Z,Đồng Xoài,25.65,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+833310,2026-08-17,2026-08-16T17:00:31.194Z,Đồng Xoài,26.14,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+823393,2026-08-16,2026-08-15T17:00:25.276Z,Đồng Xoài,24.56,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+813196,2026-08-15,2026-08-14T17:00:25.665Z,Đồng Xoài,24.92,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+802999,2026-08-14,2026-08-13T17:00:25.521Z,Đồng Xoài,26.29,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+793008,2026-08-13,2026-08-12T17:00:24.914Z,Đồng Xoài,25.53,94,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+783532,2026-08-12,2026-08-11T17:00:25.138Z,Đồng Xoài,24.69,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+773385,2026-08-11,2026-08-10T17:15:26.503Z,Đồng Xoài,24.74,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+763394,2026-08-10,2026-08-09T17:00:25.811Z,Đồng Xoài,25.31,98,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+753403,2026-08-09,2026-08-08T17:00:25.772Z,Đồng Xoài,25.72,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+743412,2026-08-08,2026-08-07T17:00:26.128Z,Đồng Xoài,25.96,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+733421,2026-08-07,2026-08-06T17:00:26.364Z,Đồng Xoài,26.01,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+723739,2026-08-06,2026-08-05T17:00:27.061Z,Đồng Xoài,24.9,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+713748,2026-08-05,2026-08-04T17:00:27.682Z,Đồng Xoài,24.9,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+703757,2026-08-04,2026-08-03T17:00:25.619Z,Đồng Xoài,26.01,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+693766,2026-08-03,2026-08-02T17:00:25.504Z,Đồng Xoài,26.57,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+683775,2026-08-02,2026-08-01T17:00:25.545Z,Đồng Xoài,26.57,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+673784,2026-08-01,2026-07-31T17:00:25.898Z,Đồng Xoài,25.45,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+663793,2026-07-31,2026-07-30T17:00:25.941Z,Đồng Xoài,25.45,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+653802,2026-07-30,2026-07-29T17:00:26.050Z,Đồng Xoài,24.9,99,mưa cường độ nặng,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+643811,2026-07-29,2026-07-28T17:00:25.518Z,Đồng Xoài,24.34,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+633820,2026-07-28,2026-07-27T17:00:26.862Z,Đồng Xoài,24.9,95,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+623829,2026-07-27,2026-07-26T17:00:26.963Z,Đồng Xoài,23.83,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+616281,2026-07-26,2026-07-25T17:00:25.802Z,Đồng Xoài,24.9,98,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+606290,2026-07-25,2026-07-24T17:00:27.032Z,Đồng Xoài,24.34,98,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+596299,2026-07-24,2026-07-23T17:00:26.899Z,Đồng Xoài,23.79,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+586308,2026-07-23,2026-07-22T17:00:26.705Z,Đồng Xoài,26.53,90,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+576317,2026-07-22,2026-07-21T17:00:27.359Z,Đồng Xoài,26.05,86,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+566326,2026-07-21,2026-07-20T17:00:26.983Z,Đồng Xoài,26.57,90,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+556335,2026-07-20,2026-07-19T17:00:27.919Z,Đồng Xoài,25.19,92,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+546344,2026-07-19,2026-07-18T17:00:27.299Z,Đồng Xoài,24.34,94,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+536353,2026-07-18,2026-07-17T17:00:28.721Z,Đồng Xoài,25.45,93,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+526362,2026-07-17,2026-07-16T17:00:28.145Z,Đồng Xoài,24.34,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+516371,2026-07-16,2026-07-15T17:00:26.339Z,Đồng Xoài,24.9,98,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+506380,2026-07-15,2026-07-14T17:00:28.447Z,Đồng Xoài,26.01,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+496389,2026-07-14,2026-07-13T17:00:28.054Z,Đồng Xoài,26.01,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+486398,2026-07-13,2026-07-12T17:00:28.063Z,Đồng Xoài,25.45,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+476407,2026-07-12,2026-07-11T17:00:28.879Z,Đồng Xoài,24.34,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+466416,2026-07-11,2026-07-10T17:00:27.179Z,Đồng Xoài,26.57,90,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+456425,2026-07-10,2026-07-09T17:00:28.248Z,Đồng Xoài,25.45,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+446434,2026-07-09,2026-07-08T17:00:29.953Z,Đồng Xoài,23.73,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+439298,2026-07-08,2026-07-07T17:00:31.409Z,Đồng Xoài,23.79,98,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+429513,2026-07-07,2026-07-06T17:00:32.394Z,Đồng Xoài,26.57,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+419522,2026-07-06,2026-07-05T17:00:30.046Z,Đồng Xoài,25.45,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+409634,2026-07-05,2026-07-04T17:00:32.820Z,Đồng Xoài,24.34,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+399643,2026-07-04,2026-07-03T17:00:30.600Z,Đồng Xoài,26.01,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+389755,2026-07-03,2026-07-02T17:00:45.258Z,Đồng Xoài,24.4,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+379770,2026-07-02,2026-07-01T17:00:31.182Z,Đồng Xoài,26.57,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+369779,2026-07-01,2026-06-30T17:00:58.973Z,Đồng Xoài,26.57,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+359788,2026-06-30,2026-06-29T17:00:33.390Z,Đồng Xoài,24.9,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+349797,2026-06-29,2026-06-28T17:00:25.906Z,Đồng Xoài,26.57,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+339806,2026-06-28,2026-06-27T17:00:26.589Z,Đồng Xoài,25.45,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+329815,2026-06-27,2026-06-26T17:00:41.656Z,Đồng Xoài,25.5,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+319824,2026-06-26,2026-06-25T17:00:25.158Z,Đồng Xoài,26.57,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+309833,2026-06-25,2026-06-24T17:00:26.740Z,Đồng Xoài,27.12,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+299842,2026-06-24,2026-06-23T17:00:28.347Z,Đồng Xoài,25.45,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+289851,2026-06-23,2026-06-22T17:00:28.016Z,Đồng Xoài,26.57,80,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+279861,2026-06-22,2026-06-21T17:00:26.155Z,Đồng Xoài,25.45,82,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1451922,2026-10-19,2026-10-18T17:00:23.509Z,Đồng Xoài,24.56,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1441519,2026-10-18,2026-10-17T17:00:26.728Z,Đồng Xoài,25.52,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1431116,2026-10-17,2026-10-16T17:00:25.190Z,Đồng Xoài,25.68,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1420713,2026-10-16,2026-10-15T17:00:26.464Z,Đồng Xoài,25.42,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1410310,2026-10-15,2026-10-14T17:00:26.353Z,Đồng Xoài,26.01,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1399907,2026-10-14,2026-10-13T17:00:27.416Z,Đồng Xoài,24.71,96,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1389504,2026-10-13,2026-10-12T17:00:27.923Z,Đồng Xoài,26.07,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1379101,2026-10-12,2026-10-11T17:00:25.910Z,Đồng Xoài,25.38,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1368698,2026-10-11,2026-10-10T17:00:25.373Z,Đồng Xoài,25.27,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1358295,2026-10-10,2026-10-09T17:00:27.076Z,Đồng Xoài,24.08,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1347892,2026-10-09,2026-10-08T17:00:27.050Z,Đồng Xoài,23.82,96,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1337489,2026-10-08,2026-10-07T17:00:25.700Z,Đồng Xoài,23.55,94,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1327086,2026-10-07,2026-10-06T17:00:25.283Z,Đồng Xoài,24.34,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1316683,2026-10-06,2026-10-05T17:00:24.431Z,Đồng Xoài,25.45,97,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1306280,2026-10-05,2026-10-04T17:00:24.309Z,Đồng Xoài,25.45,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1295877,2026-10-04,2026-10-03T17:00:24.922Z,Đồng Xoài,26.57,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1285474,2026-10-03,2026-10-02T17:00:26.443Z,Đồng Xoài,24.9,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1275071,2026-10-02,2026-10-01T17:00:23.519Z,Đồng Xoài,24.9,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1264668,2026-10-01,2026-09-30T17:00:25.087Z,Đồng Xoài,25.45,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1254265,2026-09-30,2026-09-29T17:00:25.072Z,Đồng Xoài,27.12,94,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1244274,2026-09-29,2026-09-28T17:00:27.034Z,Đồng Xoài,23.23,97,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1233871,2026-09-28,2026-09-27T17:00:25.929Z,Đồng Xoài,24.9,98,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1223468,2026-09-27,2026-09-26T17:00:26.071Z,Đồng Xoài,24.9,97,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1213065,2026-09-26,2026-09-25T17:00:26.474Z,Đồng Xoài,24.9,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1202662,2026-09-25,2026-09-24T17:00:26.502Z,Đồng Xoài,25.45,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1192259,2026-09-24,2026-09-23T17:00:26.362Z,Đồng Xoài,25.45,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1181856,2026-09-23,2026-09-22T17:00:25.623Z,Đồng Xoài,24.9,98,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1171453,2026-09-22,2026-09-21T17:00:25.221Z,Đồng Xoài,24.9,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1161050,2026-09-21,2026-09-20T17:00:24.426Z,Đồng Xoài,24.34,96,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1150647,2026-09-20,2026-09-19T17:00:26.061Z,Đồng Xoài,24.9,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1140244,2026-09-19,2026-09-18T17:00:25.805Z,Đồng Xoài,24.34,98,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1129944,2026-09-18,2026-09-17T17:00:24.647Z,Đồng Xoài,25.45,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1119541,2026-09-17,2026-09-16T17:00:25.095Z,Đồng Xoài,26.01,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1109138,2026-09-16,2026-09-15T17:00:26.359Z,Đồng Xoài,24.34,95,mưa cường độ nặng,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1098735,2026-09-15,2026-09-14T17:00:25.452Z,Đồng Xoài,24.9,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1088538,2026-09-14,2026-09-13T17:00:25.975Z,Đồng Xoài,23.79,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1078341,2026-09-13,2026-09-12T17:00:26.385Z,Đồng Xoài,24.9,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1069071,2026-09-12,2026-09-11T17:00:23.286Z,Đồng Xoài,24.34,98,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1058874,2026-09-11,2026-09-10T17:00:25.647Z,Đồng Xoài,23.79,99,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1048677,2026-09-10,2026-09-09T17:00:25.858Z,Đồng Xoài,23.79,97,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1038480,2026-09-09,2026-09-08T17:00:24.212Z,Đồng Xoài,26.57,94,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1028283,2026-09-08,2026-09-07T17:00:26.140Z,Đồng Xoài,26.01,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1018086,2026-09-07,2026-09-06T17:00:26.384Z,Đồng Xoài,26.01,93,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1007895,2026-09-06,2026-09-05T17:00:30.308Z,Đồng Xoài,24.34,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+997698,2026-09-05,2026-09-04T17:00:26.452Z,Đồng Xoài,23.79,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+991415,2026-09-04,2026-09-04T02:17:16.200Z,Đồng Xoài,28.79,89,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+982866,2026-09-01,2026-08-31T17:00:24.939Z,Đồng Xoài,25.45,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+972875,2026-08-31,2026-08-30T17:00:24.731Z,Đồng Xoài,25.45,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+962884,2026-08-30,2026-08-29T17:00:25.996Z,Đồng Xoài,23.79,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+952893,2026-08-29,2026-08-28T17:00:27.050Z,Đồng Xoài,24.9,93,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+942902,2026-08-28,2026-08-27T17:00:24.740Z,Đồng Xoài,26.01,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+932911,2026-08-27,2026-08-26T17:00:25.977Z,Đồng Xoài,24.9,94,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+922920,2026-08-26,2026-08-25T17:00:25.322Z,Đồng Xoài,26.57,86,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+912929,2026-08-25,2026-08-24T17:00:24.631Z,Đồng Xoài,25.45,89,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+903144,2026-08-24,2026-08-23T17:00:24.262Z,Đồng Xoài,25.89,92,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+893153,2026-08-23,2026-08-22T17:00:30.474Z,Đồng Xoài,26.57,91,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+883162,2026-08-22,2026-08-21T17:00:24.144Z,Đồng Xoài,24.9,91,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+873274,2026-08-21,2026-08-20T17:00:40.872Z,Đồng Xoài,24.9,93,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1636884,2026-11-06,2026-11-05T17:00:29.429Z,Đồng Xoài,24.93,94,mây thưa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1626481,2026-11-05,2026-11-04T17:00:32.087Z,Đồng Xoài,24.43,94,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1616078,2026-11-04,2026-11-03T17:00:34.037Z,Đồng Xoài,25.92,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1605675,2026-11-03,2026-11-02T17:00:29.340Z,Đồng Xoài,25.19,95,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1595272,2026-11-02,2026-11-01T17:00:25.161Z,Đồng Xoài,25.41,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1584869,2026-11-01,2026-10-31T17:00:28.484Z,Đồng Xoài,24.81,97,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1574466,2026-10-31,2026-10-30T17:00:25.405Z,Đồng Xoài,26.11,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1564063,2026-10-30,2026-10-29T17:00:25.166Z,Đồng Xoài,25.74,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1553660,2026-10-29,2026-10-28T17:00:25.948Z,Đồng Xoài,25.93,94,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1543257,2026-10-28,2026-10-27T17:00:25.925Z,Đồng Xoài,25.98,91,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1532854,2026-10-27,2026-10-26T17:00:25.927Z,Đồng Xoài,25.27,93,mây rải rác,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1522451,2026-10-26,2026-10-25T17:00:25.813Z,Đồng Xoài,25.07,96,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1512048,2026-10-25,2026-10-24T17:00:23.999Z,Đồng Xoài,25.49,96,mây cụm,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1501671,2026-10-24,2026-10-23T17:00:26.927Z,Đồng Xoài,23.78,96,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1491268,2026-10-23,2026-10-22T17:00:26.516Z,Đồng Xoài,24.49,95,mưa nhẹ,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1480865,2026-10-22,2026-10-21T17:00:26.451Z,Đồng Xoài,24.09,98,mưa vừa,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1470462,2026-10-21,2026-10-20T17:00:26.333Z,Đồng Xoài,24.22,95,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
+1460059,2026-10-20,2026-10-19T17:00:25.946Z,Đồng Xoài,25.0,97,mây đen u ám,,openweathermap.org,6823.0,11.5348,106.883,Bình Phước,Đồng Xoài
